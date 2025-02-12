@@ -1,2 +1,3 @@
-# Flappy_Brid
-Simple Flappy bird game
+# flappy-bird-assets
+
+Assets to develop the Flappy Bird Game
